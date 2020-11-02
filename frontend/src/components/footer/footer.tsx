@@ -4,8 +4,7 @@ function Footer(){
     return(
         <>
             <footer>
-                <span>Desenvolvido por Thiago Dantas Vasco</span>
-                <i className="fab fa-github"></i>
+                <span>Desenvolvido por: <a href="https://github.com/thiagodantasv" target = "_blank" rel="noopener noreferrer">Thiago Dantas Vasco</a></span>
             </footer>
         </>
     );
