@@ -3,14 +3,14 @@ footer{
     width: 100%;
     left:0;
     bottom:0;
-    background:#006db6;
+    background:#4667d2;
     height: 50px;
 }
 
 span{
-    color: white;
+    color: #ffffff;
 }
 
 a:visited, a:link{
-    color: white;
+    color: #ffffff;
 }
