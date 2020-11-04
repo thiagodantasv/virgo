@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+
+.signup-form{
+    display:flex;
+    justify-content: center;
+}
+
+.signup-paper{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+
+    height: 30vh;
+    width:30vw;
+
+}
+
+.input-field{
+    padding: 50px;
+}
